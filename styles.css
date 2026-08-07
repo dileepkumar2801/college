@@ -50,7 +50,7 @@ header .top {
   height: 100px;
 }
 .main {
-  background-image: url("images/clg photo.jpg");
+  background-image: url(images/clgphoto.jpg);
   background-size: cover;
   width: 100%;
   height: 500px;
@@ -128,13 +128,13 @@ h1 {
   font-family: cursive;
 }
 .co {
-  background-image: url("images/graduation pic.jpg");
+  background-image: url(images/graduationpic.jpg);
   background-size: cover;
   color: whitesmoke;
   transition: 0.2s;
 }
 .af {
-  background-image: url("images/admission new.jpg");
+  background-image: url(images/admission new.jpg);
   color: white;
   background-size: cover;
   display: flex;
@@ -143,7 +143,7 @@ h1 {
   transition: 0.2s;
 }
 .fs {
-  background-image: url("images/fee structure.jpg");
+  background-image: url(images/feestructure.jpg);
   background-size: cover;
   color: black;
   display: flex;

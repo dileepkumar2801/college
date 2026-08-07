@@ -50,7 +50,7 @@ header .top {
   height: 100px;
 }
 .main {
-  background-image: url(images/clg photo.jpg);
+  background-image: url("images/clg photo.jpg");
   background-size: cover;
   width: 100%;
   height: 500px;
@@ -134,7 +134,7 @@ h1 {
   transition: 0.2s;
 }
 .af {
-  background-image: url(images/admission new.jpg);
+  background-image: url("images/admission new.jpg");
   color: white;
   background-size: cover;
   display: flex;
@@ -143,7 +143,7 @@ h1 {
   transition: 0.2s;
 }
 .fs {
-  background-image: url(images/fee structure.jpg);
+  background-image: url("images/fee structure.jpg");
   background-size: cover;
   color: black;
   display: flex;
@@ -152,7 +152,7 @@ h1 {
   transition: 0.2s;
 }
 .ps {
-  background-image: url(images/placements.jpg);
+  background-image: url("images/placements.jpg");
   background-size: cover;
   color: black;
   display: flex;

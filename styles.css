@@ -50,7 +50,7 @@ header .top {
   height: 100px;
 }
 .main {
-  background-image: url(college/images/clg photo.jpg);
+  background-image: url(images/clg photo.jpg);
   background-size: cover;
   width: 100%;
   height: 500px;
@@ -128,7 +128,7 @@ h1 {
   font-family: cursive;
 }
 .co {
-  background-image: url(images/graduation pic.jpg);
+  background-image: url("images/graduation pic.jpg");
   background-size: cover;
   color: whitesmoke;
   transition: 0.2s;
